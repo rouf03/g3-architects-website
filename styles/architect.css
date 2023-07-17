@@ -236,6 +236,33 @@ main {
     width: 165px;
 }
 
+/* Footer Styles */
+
+footer {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.foot {
+    border-radius: 8px;
+    background: #FFF4E7;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+
+.foot p {
+    text-align: center;
+    color: #424242;
+    font-size: 20px;
+    font-weight: 400;
+}
 
 
 
@@ -333,6 +360,7 @@ main {
         padding: 20px;
         text-align: center;
     }
+
     .features img {
         width: 80%;
         margin-left: 100px;
@@ -344,3 +372,4 @@ main {
         margin-left: 100px;
     }
 }
+
